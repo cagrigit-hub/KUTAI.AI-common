@@ -1,6 +1,6 @@
 {
   "name": "@kutai.ai/common",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "This is the common library for kut-ai.",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
